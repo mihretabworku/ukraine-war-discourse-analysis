@@ -1,0 +1,65 @@
+# Ukraine War Discourse Analysis — .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Telegram session files (SENSITIVE — never commit)
+*.session
+*.session-journal
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# Output files (generated — can be reproduced)
+output/
+output_v2/
+
+# Conversation logs (private)
+conversation_log*.md
+*.resolved
+
+# Personal/university files
+*.pdf
+!figures/*.png
+
+# Data files too large for git
+*.xlsx
+*.csv
+!data/*.csv
