@@ -111,7 +111,7 @@ This project is licensed under the MIT License, see the [LICENSE](LICENSE) file 
 
 **Mihretab Worku Morka**
 - BSc Digital Economics and Business, UNIVPM
-- GitHub: [@mihretbing](https://github.com/mihretbing)
+- GitHub: [@mihretabworku](https://github.com/mihretabworku)
 
 Thesis title: *Telegram as a Battlefield: Computational Analysis of Russian War Discourse Across 18 Operational Events (2022-2026)*
 Supervisor: Prof. Giacomo di Tollo
